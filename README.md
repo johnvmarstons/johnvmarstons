@@ -2,7 +2,7 @@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=ruddleside&color=red&label=RUDDLESIDE　POPULATIONㅤㅤㅤ&style=plastic)
+![](https://komarev.com/ghpvc/?username=ruddleside&color=red&label=RUDDLESIDE　POPULATION&style=plastic)
 <br />
 
 <p align="center"> ${\textsf{\color{red}" Call me, let's get out this town . "}}$
