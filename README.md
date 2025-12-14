@@ -7,7 +7,7 @@
 
 <p align="center"> ${\textsf{\color{skyblue}" Call me, let's get out this town . "}}$
 
-![](https://files.catbox.moe/zpz33r.jpeg)
+![](https://files.catbox.moe/sdrxuo.png)
 
 [![happily ever after](https://files.catbox.moe/5x8zv0.png)](https://ruddleside.atabook.org)
 [![sole survivor](https://files.catbox.moe/3mry5k.png)](https://guns.lol/ruddleside)
